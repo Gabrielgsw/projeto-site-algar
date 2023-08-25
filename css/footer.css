@@ -6,3 +6,10 @@ footer {
     width: 75%;
     margin: auto;
 }
+
+footer section .link-logo {
+    display: block;
+    padding: 20px 25px;
+    text-align: left ;
+    
+}
